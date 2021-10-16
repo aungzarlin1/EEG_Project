@@ -23,3 +23,5 @@ https://ieeexplore.ieee.org/abstract/document/5492691
 https://books.google.co.th/books?hl=en&lr=&id=Y22PDwAAQBAJ&oi=fnd&pg=PA19&dq=p300+bci+game&ots=hVMNwQqdc-&sig=dqSCYn9KGBKOkGUhsEmUP9slLu8&redir_esc=y#v=onepage&q=p300%20bci%20game&f=false
 
 https://ieeexplore.ieee.org/abstract/document/8288852
+
+https://www.sciencedirect.com/science/article/pii/S1746809416301318#bib0610
