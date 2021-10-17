@@ -1,6 +1,11 @@
 # EEG_Project Progress
 
-## 11 - 15 October
+# Team Members
+1. Aung Zar Lin (st121956)
+2. Lin Tun Naing (st122403)
+3. Min Khant Soe (st122277)
+4. Win Win Phyo (st122314)
+## 11 - 17 October
 
 task-based
 
