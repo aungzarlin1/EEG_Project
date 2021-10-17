@@ -19,4 +19,5 @@ we read the following paper
   - Progress in neural networks for EEG signal recognition in 2021
 https://arxiv.org/ftp/arxiv/papers/2103/2103.15755.pdf 
 
-
+  - Trends in EEG-BCI for daily-life: Requirements for artifact removal
+https://www.sciencedirect.com/science/article/pii/S1746809416301318#bib0610
