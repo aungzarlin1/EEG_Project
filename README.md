@@ -21,3 +21,9 @@ https://arxiv.org/ftp/arxiv/papers/2103/2103.15755.pdf
 
   - Trends in EEG-BCI for daily-life: Requirements for artifact removal
 https://www.sciencedirect.com/science/article/pii/S1746809416301318#bib0610
+
+
+# Expected to finish in next week
+ - read 1 more paper for each member
+ - Try to understand the dataset 
+ - begin the preprocessing steps
