@@ -39,3 +39,5 @@ https://books.google.co.th/books?hl=en&lr=&id=Y22PDwAAQBAJ&oi=fnd&pg=PA19&dq=p30
 https://ieeexplore.ieee.org/abstract/document/8288852
 
 https://www.sciencedirect.com/science/article/pii/S1746809416301318#bib0610
+
+https://www.frontiersin.org/articles/10.3389/fninf.2015.00016/full __ Min Khant Soe
