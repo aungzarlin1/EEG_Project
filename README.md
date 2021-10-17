@@ -2,6 +2,17 @@
 
 ## 11 - 15 October
 
+task-based
+
+modeling - 0%
+loading the dataset - 100%
+creating the github - 100%
+reading paper - 40 % 
+
+we read the following paper 
+  - https://hal.archives-ouvertes.fr/hal-02173958/document?fbclid=IwAR2HuX-mjDmMsokUg2zYyPkHnI-WyfX0oIRWgKAffLgJ7yO0pbyM9mNY7Q8 (this is about dataset)
+  - A novel P300 BCI speller based on the Triple RSVP paradigm (https://www.nature.com/articles/s41598-018-21717-y)
+
 
 ###paper reading
 
