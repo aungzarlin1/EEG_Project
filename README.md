@@ -40,8 +40,11 @@ https://ieeexplore.ieee.org/abstract/document/8288852
 
 https://www.sciencedirect.com/science/article/pii/S1746809416301318#bib0610
 
-https://arxiv.org/ftp/arxiv/papers/2103/2103.15755.pdf __ Min Khant Soe
+Progress in neural networks for EEG signal recognition in 2021
+https://arxiv.org/ftp/arxiv/papers/2103/2103.15755.pdf             __ Min Khant Soe
 
+The PREP pipeline: standardized preprocessing for large-scale EEG analysis
 https://www.frontiersin.org/articles/10.3389/fninf.2015.00016/full 
 
+Classification of EEG Signals Based on Pattern Recognition Approach
 https://www.frontiersin.org/articles/10.3389/fncom.2017.00103/full
