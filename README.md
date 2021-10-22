@@ -32,3 +32,6 @@ https://www.sciencedirect.com/science/article/pii/S1746809416301318#bib0610
  - read 1 more paper for each member
  - Try to understand the dataset 
  - begin the preprocessing steps
+
+-  Lawhern, Vernon J. EEGNet: A Compact Convolutional Network for EEG-based Brain-Computer Interfaces:
+   https://www.researchgate.net/publication/310953136_EEGNet_A_Compact_Convolutional_Network_for_EEG-based_Brain-Computer_Interfaces
