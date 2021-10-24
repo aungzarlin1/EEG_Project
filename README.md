@@ -5,6 +5,30 @@
 2. Lin Tun Naing (st122403)
 3. Min Khant Soe (st122277)
 4. Win Win Phyo (st122314)
+
+## 18 - 24 October
+modeling - 7%
+
+loading the dataset - 100%
+
+creating the github - 100%
+
+reading paper - 90 % 
+
+we read the following paper
+      - MEG and EEG data analysis with MNE-Python (https://www.frontiersin.org/articles/10.3389/fnins.2013.00267/full)
+      - Universal Joint Feature Extraction for P300 EEG Classification Using Multi-Task Autoencoder (https://ieeexplore.ieee.org/abstract/document/8723080)
+      -  Lawhern, Vernon J. EEGNet: A Compact Convolutional Network for EEG-based Brain-Computer Interfaces (https://www.researchgate.net/publication/310953136_EEGNet_A_Compact_Convolutional_Network_for_EEG-based_Brain-Computer_Interfaces)
+
+We done this steps in data processing:
+  - transform data in to raw mne object
+  - notch filter 
+  - band pass filter
+      
+# Expected to finish in next week
+  - got error in notch filter coding and try to fix
+  - ICA
+  - epoching
 ## 11 - 17 October
 
 task-based
@@ -28,10 +52,4 @@ https://arxiv.org/ftp/arxiv/papers/2103/2103.15755.pdf
 https://www.sciencedirect.com/science/article/pii/S1746809416301318#bib0610
 
 
-# Expected to finish in next week
- - read 1 more paper for each member
- - Try to understand the dataset 
- - begin the preprocessing steps
 
--  Lawhern, Vernon J. EEGNet: A Compact Convolutional Network for EEG-based Brain-Computer Interfaces:
-   https://www.researchgate.net/publication/310953136_EEGNet_A_Compact_Convolutional_Network_for_EEG-based_Brain-Computer_Interfaces
