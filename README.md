@@ -21,9 +21,7 @@ we read the following paper
  - Universal Joint Feature Extraction for P300 EEG Classification Using Multi-Task Autoencoder (https://ieeexplore.ieee.org/abstract/document/8723080)
  - Lawhern, Vernon J. EEGNet: A Compact Convolutional Network for EEG-based Brain-Computer Interfaces(https://www.researchgate.net/publication/310953136_EEGNet_A_Compact_Convolutional_Network_for_EEG-based_Brain-Computer_Interfaces)
  - Asscement of preprocessing of classifiers on using P300 paradigm(https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4462003)
-
-A P300 event-related potential brain–computer interface (BCI): The effects of matrix size and inter stimulus interval on performance
- - https://www.sciencedirect.com/science/article/pii/S0301051106001396
+ - A P300 event-related potential brain–computer interface (BCI): The effects of matrix size and inter stimulus interval on performance(https://www.sciencedirect.com/science/article/pii/S0301051106001396)
 
 We done this steps in data processing:
   - transform data in to raw mne object
