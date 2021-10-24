@@ -16,9 +16,11 @@ creating the github - 100%
 reading paper - 90 % 
 
 we read the following paper
-      - MEG and EEG data analysis with MNE-Python (https://www.frontiersin.org/articles/10.3389/fnins.2013.00267/full)
-      - Universal Joint Feature Extraction for P300 EEG Classification Using Multi-Task Autoencoder (https://ieeexplore.ieee.org/abstract/document/8723080)
-      -  Lawhern, Vernon J. EEGNet: A Compact Convolutional Network for EEG-based Brain-Computer Interfaces (https://www.researchgate.net/publication/310953136_EEGNet_A_Compact_Convolutional_Network_for_EEG-based_Brain-Computer_Interfaces)
+
+ - MEG and EEG data analysis with MNE-Python (https://www.frontiersin.org/articles/10.3389/fnins.2013.00267/full)
+ - Universal Joint Feature Extraction for P300 EEG Classification Using Multi-Task Autoencoder (https://ieeexplore.ieee.org/abstract/document/8723080)
+ - Lawhern, Vernon J. EEGNet: A Compact Convolutional Network for EEG-based Brain-Computer Interfaces(https://www.researchgate.net/publication/310953136_EEGNet_A_Compact_Convolutional_Network_for_EEG-based_Brain-Computer_Interfaces)
+ - Asscement of preprocessing of classifiers on using P300 paradigm(https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4462003)
 
 We done this steps in data processing:
   - transform data in to raw mne object
