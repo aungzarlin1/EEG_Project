@@ -6,6 +6,16 @@
 3. Min Khant Soe (st122277)
 4. Win Win Phyo (st122314)
 
+## 25 - 31 Ocotober
+
+preprocessing and modeling - 25%
+
+We have done in this week.
+- ICA (difficult to differentiate bettween eye,muscle artifacts and signals)
+- Epoching
+
+Expecting to work on the next week
+- modeling
 ## 18 - 24 October
 modeling - 7%
 
