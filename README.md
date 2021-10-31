@@ -54,5 +54,8 @@ https://arxiv.org/ftp/arxiv/papers/2103/2103.15755.pdf
   - Trends in EEG-BCI for daily-life: Requirements for artifact removal
 https://www.sciencedirect.com/science/article/pii/S1746809416301318#bib0610
 
+ - Analysis of P300 Related Target Choice in Oddball Paradigm
+https://www.koreascience.or.kr/article/JAKO201120661418465.page
+
 
 
