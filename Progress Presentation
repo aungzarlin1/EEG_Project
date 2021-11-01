@@ -7,8 +7,8 @@ Our project is about classification of Target and Non-target for solo vs dual us
 
 In the dataset, 
 
-Num of subjects: 38 
-32-electrodes per subject
+Num of subjects: 38 , 2 subject per group and total 19 groups
+32-electrodes per subject with 10-10 system
 Sampling rate: 512 Hz
 
 2 subjects during each session
@@ -28,13 +28,12 @@ Columns 19 (Target Column)
 2 - Target
 ###################################################################
 Research Question
-Is CNN a good model to classify the target and non-target for solo vs dual subjects?
-Topological study of P300 signals
+Is P300 the same or differcne between solo and dual for target and non-target?
 
-
+###################################################################
 What are your plans
 Data loading
-Signal Preprocessing
+Preprocessing
 Modeling 
 Training the data
 Evaluation - classification report
@@ -63,7 +62,7 @@ Plotted the independent components
 https://www.sciencedirect.com/science/article/pii/S1746809410000558
 
 #######################################################################
-Struggles
+Challenges
 
 ICA: difficult to distinguish between brain signals and noise signals by viewing different ICs. 
 
