@@ -6,6 +6,15 @@
 3. Min Khant Soe (st122277)
 4. Win Win Phyo (st122314)
 
+## 1- 7 December
+
+modeling - 50 %
+
+In this week, we fit the data with 4 models (ML, LSTM, CNN with 1d and 2d) and compare the accuracy.
+
+Expecting to work on the next week
+- p300 Analysis
+
 ## 25 - 31 Ocotober
 
 preprocessing and modeling - 25%
