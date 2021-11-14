@@ -6,7 +6,17 @@
 3. Min Khant Soe (st122277)
 4. Win Win Phyo (st122314)
 
-## 1- 7 December
+## 8- 14 November
+
+modeling - 80 %
+
+In this week, we do P300 analysis and continue working on classification models.
+
+Expected to do next week
+-inter-brain synchrony
+
+
+## 1- 7 November
 
 modeling - 50 %
 
