@@ -7,7 +7,7 @@
 4. Win Win Phyo (st122314)
 
 ## 15- 21 November
-- Data are saved as numpy file in folder in order to save time when we want to run the data in model.
+- Data are saved as numpy file in folder in order to save time when we want to run the data in model again.
 - Build CNN model and recorded the accuracy in excels for both 1 subject and each channels of that subject.
 - Compared accuracy result with ML models.
 
