@@ -6,6 +6,16 @@
 3. Min Khant Soe (st122277)
 4. Win Win Phyo (st122314)
 
+## 15- 21 November
+- Data are saved as numpy file in folder in order to save time when we want to run the data in model.
+- Build CNN model and recorded the accuracy in excels for both 1 subject and each channels of that subject.
+- Compared accuracy result with ML models.
+
+
+Expected to finish next week
+- Improve CNN model as possible as to beat the accuracy of ML
+- Build LSTM+CNN model
+
 ## 8- 14 November
 
 modeling - 80 %
