@@ -6,6 +6,18 @@
 3. Min Khant Soe (st122277)
 4. Win Win Phyo (st122314)
 
+## Final ipynb check list
+1. Load_data
+2. BN3 subject specific
+3. BN3 train on one subject and test on another subject
+4. BN3 regional channel
+5. BN3+LSTM subject specific
+6. BN3+LSTM train on one subject and test on another subject
+7. BN3+LSTM regional channel
+8. CNN subject specific
+9. CNN train on one subject and test on another subject
+10. CNN regional channel
+
 ## 15- 21 November
 - Data are saved as (.fif) file in folder in order to save time when we want to run the data in model again.
 - Build CNN model and recorded the accuracy in excels for both 1 subject and each channels of that subject.
