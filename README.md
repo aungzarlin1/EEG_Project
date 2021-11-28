@@ -17,6 +17,9 @@
 8. CNN subject specific
 9. CNN train on one subject and test on another subject
 10. CNN regional channel
+11. BN3 regional channel P Region Test
+12. BN3+LSTM regional channel P Region Test
+13. CNN regional channel P Region Test
 
 ## 15- 21 November
 - Data are saved as (.fif) file in folder in order to save time when we want to run the data in model again.
