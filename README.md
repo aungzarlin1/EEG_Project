@@ -20,6 +20,10 @@
 11. BN3 regional channel P Region Test
 12. BN3+LSTM regional channel P Region Test
 13. CNN regional channel P Region Test
+14. BN3 subject pool
+15. BN3+LSTM subject pool
+16. CNN subject pool
+Visualize ERP
 
 ## 15- 21 November
 - Data are saved as (.fif) file in folder in order to save time when we want to run the data in model again.
